@@ -1568,8 +1568,6 @@ return widget;
 
 }; 
 
-
 window.ChessBoard.fenToObj = fenToObj;
 window.ChessBoard.objToFen = objToFen;
-
 })(); 
