@@ -4,15 +4,16 @@
   <img src="screenshots/banner.png" alt="AI Stockfish Flask Chess Banner">
 </p>
 
-
 > Play against the Stockfish chess engine directly in your browser using a Flask-powered web app.
 
 ---
 
-![Python](https://img.shields.io/badge/Python-3.8+-blue)
-![Flask](https://img.shields.io/badge/Flask-Web%20Framework-green)
-![Stockfish](https://img.shields.io/badge/Stockfish-AI%20Chess%20Engine-orange)
-![Status](https://img.shields.io/badge/Status-Active-success)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.8+-blue" />
+  <img src="https://img.shields.io/badge/Flask-Web%20Framework-green" />
+  <img src="https://img.shields.io/badge/Stockfish-AI%20Chess%20Engine-orange" />
+  <img src="https://img.shields.io/badge/Status-Active-success" />
+</p>
 
 ---
 
@@ -53,6 +54,7 @@ AI-Stockfish-Flask-Chess/
 ├── .gitattributes       # Git configuration
 ├── flask_app.py         # Main Flask web server
 ├── board_test.py        # Board logic tester
+├── requirements.txt     # Project dependencies
 └── README.md            # Project documentation
 ```
 
@@ -131,11 +133,9 @@ http://127.0.0.1:5000/
 
 ## 📦 Tech Stack
 
-```
-Backend: Python, Flask
-AI Engine: Stockfish
-Frontend: HTML, CSS, JavaScript
-```
+- Backend: Python, Flask
+- AI Engine: Stockfish
+- Frontend: HTML, CSS, JavaScript
 
 ---
 
@@ -151,21 +151,18 @@ Frontend: HTML, CSS, JavaScript
 
 ## 🤝 Contributing
 
-```text
-1. Fork the repository
-2. Create a branch: git checkout -b feature-name
-3. Commit changes: git commit -m "Add feature"
-4. Push: git push origin feature-name
-5. Open a Pull Request
-```
+- Fork the repository
+- Create a branch: git checkout -b feature-name
+- Commit changes: git commit -m "Add feature"
+- Push: git push origin feature-name
+- Open a Pull Request
 
 ---
 
 ## 🔋 Powered By
 
-```
-Flask
-Stockfish Chess Engine
-HTML, CSS, JavaScript
-```
+- Flask
+- Stockfish Chess Engine
+- HTML, CSS, JavaScript
+
 
