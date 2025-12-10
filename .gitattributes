@@ -1,2 +1,2 @@
-stockfish/* linguist-vendored
-**/stockfish/* linguist-vendored
+# Hide Stockfish engine from GitHub language statistics
+stockfish/** linguist-vendored
