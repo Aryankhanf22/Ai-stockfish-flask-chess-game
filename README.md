@@ -54,9 +54,11 @@ AI-Stockfish-Flask-Chess/
 ├── flask_app.py         # Main Flask web server
 ├── board_test.py        # Board logic tester
 └── README.md            # Project documentation
+```
+
+---
 
 ## 🛠 Installation Guide
----
 
 ### 1️⃣ Clone the repository
 
@@ -66,6 +68,7 @@ cd AI-Stockfish-Flask-Chess
 ```
 
 ---
+
 
 ### 2️⃣ Create a virtual environment
 
@@ -124,19 +127,19 @@ http://127.0.0.1:5000/
   <img src="screenshots/home.png" alt="AI Stockfish Flask Chess Banner">
 </p>
 
+---
+
+## 📦 Tech Stack
+
+```
+Backend: Python, Flask
+AI Engine: Stockfish
+Frontend: HTML, CSS, JavaScript
 ```
 
-## 🧰 Tech Stack
 ---
 
-- **Backend:** Python, Flask  
-- **AI Engine:** Stockfish  
-- **Frontend:** HTML, CSS, JavaScript  
-
----
-
-## 🗺️ Roadmap / Ideas
----
+## 🧭 Roadmap / Ideas
 
 - Add move history panel  
 - Add difficulty levels (Stockfish depth/skill)  
@@ -147,19 +150,22 @@ http://127.0.0.1:5000/
 ---
 
 ## 🤝 Contributing
----
 
-1. Fork the repository  
-2. Create a branch: `git checkout -b feature-name`  
-3. Commit changes: `git commit -m "Add feature"`  
-4. Push: `git push origin feature-name`  
-5. Open a Pull Request  
+```text
+1. Fork the repository
+2. Create a branch: git checkout -b feature-name
+3. Commit changes: git commit -m "Add feature"
+4. Push: git push origin feature-name
+5. Open a Pull Request
+```
 
 ---
 
 ## 🔋 Powered By
----
 
-- Flask  
-- Stockfish Chess Engine  
-- HTML, CSS, JavaScript  
+```
+Flask
+Stockfish Chess Engine
+HTML, CSS, JavaScript
+```
+
