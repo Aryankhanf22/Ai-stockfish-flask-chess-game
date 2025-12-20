@@ -48,14 +48,17 @@ Key points:
 
 ```text
 AI-Stockfish-Flask-Chess/
-├── static/              # CSS, JS, images
-├── templates/           # HTML templates
-├── stockfish/           # Stockfish engine binary
-├── .gitattributes       # Git configuration
-├── flask_app.py         # Main Flask web server
-├── board_test.py        # Board logic tester
-├── requirements.txt     # Project dependencies
-└── README.md            # Project documentation
+├── screenshots/           # Add screenshot folder
+├── static/                # Arrange the code
+├── stockfish/             # Add stockfish
+├── templates/             # Add templates folder with HTML file
+├── .gitattributes         # update This file
+├── Dockerfile             # Update Dockerfile
+├── LICENSE                # Add LICENSE file
+├── README.md              # Update README.MD FILE
+├── app.py                 # Update app.py
+├── board_test.py          # Add a python file
+└── requirements.txt       # Update requirements.txt
 ```
 
 ---
